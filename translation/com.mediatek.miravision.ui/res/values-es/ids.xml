@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="basic_color">false</item>
+    <item type="id" name="line_view">false</item>
+    <item type="id" name="image_view_original">false</item>
+    <item type="id" name="image_view_adv_after">false</item>
+    <item type="id" name="image_view_basic_after">false</item>
+    <item type="id" name="text_original">false</item>
+    <item type="id" name="text_after">false</item>
+    <item type="id" name="last_button">false</item>
+    <item type="id" name="tuning_set_text">false</item>
+    <item type="id" name="tuning_set_seekbar">false</item>
+    <item type="id" name="next_button">false</item>
+    <item type="id" name="header">false</item>
+    <item type="id" name="item_content">false</item>
+    <item type="id" name="title">false</item>
+    <item type="id" name="current_mode">false</item>
+    <item type="id" name="divider">false</item>
+    <item type="id" name="drawer_layout">false</item>
+    <item type="id" name="content_frame">false</item>
+    <item type="id" name="left_drawer">false</item>
+    <item type="id" name="image">false</item>
+    <item type="id" name="text">false</item>
+    <item type="id" name="message">false</item>
+    <item type="id" name="checkbox">false</item>
+    <item type="id" name="percentage_image">false</item>
+    <item type="id" name="preference_title">false</item>
+    <item type="id" name="preference_radiobutton">false</item>
+    <item type="id" name="movie_view_root">false</item>
+    <item type="id" name="surface_view">false</item>
+    <item type="id" name="text_on">false</item>
+    <item type="id" name="text_off">false</item>
+</resources>

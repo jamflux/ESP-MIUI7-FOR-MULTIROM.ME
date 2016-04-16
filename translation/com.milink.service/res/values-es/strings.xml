@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_pkg_name">Mi Link</string>
+    <string name="app_name">Servicio UniPlay</string>
+    <string name="service_name">Servicio UniPlay</string>
+    <string name="notification_rc_title">XiaoMi TV</string>
+    <string name="notification_rc_desc">El mejor servicio de TV en cuanto a transmisión de video, foto y aplicaciones para XiaoMi Box (o TV), ¡Pruébalo ahora!</string>
+</resources>
