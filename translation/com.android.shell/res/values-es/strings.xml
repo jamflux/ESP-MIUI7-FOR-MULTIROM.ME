@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Shell</string>
+    <string name="bugreport_finished_title">Recopilatorio de errores</string>
+    <string name="bugreport_finished_text">Toque para ccompartir</string>
+    <string name="bugreport_confirm">Recopilatorio de errores contiene logs de sistema, incluyendo datos privados. Comparte estos datos SÓLO con personas de confianza.</string>
+    <string name="bugreport_confirm_repeat">Mostrar mensaje la próxima vez</string>
+</resources>

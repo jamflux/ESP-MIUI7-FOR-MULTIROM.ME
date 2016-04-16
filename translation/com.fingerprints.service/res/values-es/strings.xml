@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_ACCESS_FINGERPRINT_MANAGER">Permite usar el sensor de huella integrado en el registro y autenticación de usuarios</string>
+</resources>
