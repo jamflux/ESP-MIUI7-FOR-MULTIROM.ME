@@ -1,0 +1,5 @@
+gapps-%abi%-%android%-pico.zip
+ui_print("Installing GAPPS...");
+package_extract_dir("gapps", "/tmp/gapps");
+run_program("/sbin/busybox", "unzip", "/tmp/gapps/gapps-%abi%-%android%-pico.zip", "META-INF/com/google/android/*", "-d", "/tmp/gapps");
+run_program("/sbin/busybox", "sh", "/tmp/gapps/META-INF/com/google/android/update-binary", "dummy", "1", "/tmp/gapps/gapps-%abi%-%android%-pico.zip");

@@ -1,0 +1,5 @@
+BETA-SuperSU-v2.68.zip
+ui_print("Installing SuperSU...");
+package_extract_dir("supersu", "/tmp/supersu");
+run_program("/sbin/busybox", "unzip", "/tmp/supersu/BETA-SuperSU-v2.68.zip", "META-INF/com/google/android/*", "-d", "/tmp/supersu");
+run_program("/sbin/busybox", "sh", "/tmp/supersu/META-INF/com/google/android/update-binary", "dummy", "1", "/tmp/supersu/BETA-SuperSU-v2.68.zip");
