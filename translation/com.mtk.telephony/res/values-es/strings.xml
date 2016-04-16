@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Herramientas Telefónicas</string>
+    <string name="sim">SIM</string>
+    <string name="sim1">SIM1</string>
+    <string name="sim2">SIM2</string>
+    <string name="sim3">SIM3</string>
+    <string name="sim4">SIM4</string>
+    <string name="phone">MÓVIL</string>
+    <string name="phone1">MVIL1</string>
+    <string name="phone2">MÓVIL2</string>
+    <string name="phone3">MÓVIL3</string>
+    <string name="phone4">MÓVIL4</string>
+    <string name="start_status_bar_notification">Iniciar notificación de Barra de Estado</string>
+    <string name="stop_statusbar_notification">Parar notificación de Barra de Estado</string>
+    <string name="default_phone">Móvil por Defecto</string>
+    <string name="default_common_phone">Móvil común por Defecto</string>
+    <string name="default_voice_phone">Móvil por Defecto para VOZ</string>
+    <string name="default_sms_phone">Móvil por Defecto para MS</string>
+    <string name="default_data_phone">Móvil por Defecto para Datos</string>
+    <string name="network_status_and_signal_strength">Estado de Red &amp; Intensidad de Señal</string>
+    <string name="data_connection">Conexión de Datos</string>
+    <string name="off">Apagado</string>
+    <string name="restarting_device">Reiniciando móvil...</string>
+    <string name="reboot_confirm_notice">¿Reiciniar móvil para cambiar el teléfono por defecto?</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    <string name="no_sim_inserted">No hay SIM insertada</string>
+    <string name="perform_switch">Cambiando Configuración...</string>
+    <string name="please_wait">Espere...</string>
+    <string name="sim_switch">Cambio de SIM</string>
+    <string name="sim_hot_plug_out">SIM Hot Plug Out</string>
+    <string name="plug_out_all_sims">Plug-out all SIMs</string>
+    <string name="sim_hot_plug_in">SIM Hot Plug In</string>
+    <string name="plug_in_all_sims">Plug-in all SIMs</string>
+    <string name="sim_missing">SIM Missing</string>
+    <string name="sim_recovery">SIM Recovery</string>
+    <string name="test_button">Botón de prueba</string>
+</resources>

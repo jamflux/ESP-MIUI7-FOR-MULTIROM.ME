@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Proveedor de pasos</string>
+    <string name="permstep_label">Leer Pasos</string>
+    <string name="permstep_description">"La aplicación puede leer la información de tu teléfono"</string>
+</resources>
