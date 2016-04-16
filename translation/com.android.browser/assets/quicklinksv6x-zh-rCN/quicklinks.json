@@ -1,0 +1,228 @@
+{
+    "versionCode": "1",
+    "quicklinks": {
+        "data": [
+            {
+                "movable": true,
+                "deletable": false,
+                "recommend": true,
+                "site": {
+                    "stid": 1,
+                    "title": "Google",
+                    "url": "https://www.google.com",
+                    "thumb": "local",
+                    "hash": "4953fa03",
+                    "extra": "1_default__1122"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": false,
+                "recommend": true,
+                "site": {
+                    "stid": 2,
+                    "title": "Facebook",
+                    "url": "https://m.facebook.com",
+                    "thumb": "local",
+                    "hash": "a0c5c676",
+                    "extra": "2_default__2280"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": false,
+                "recommend": true,
+                "site": {
+                    "stid": 3,
+                    "title": "YouTube",
+                    "url": "https://m.youtube.com",
+                    "thumb": "local",
+                    "hash": "a0c5c676",
+                    "extra": "3_default__2280"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 4,
+                    "title": "Yahoo",
+                    "url": "https://www.yahoo.com",
+                    "thumb": "local",
+                    "hash": "a0c5c676",
+                    "extra": "4_default__2280"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 5,
+                    "title": "Twitter",
+                    "url": "https://twitter.com",
+                    "thumb": "local",
+                    "hash": "a0c5c676",
+                    "extra": "5_default__2280"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 6,
+                    "title": "Gmail",
+                    "url": "https://mail.google.com",
+                    "thumb": "local",
+                    "hash": "a0c5c676",
+                    "extra": "6_default__2280"
+                }
+            },
+			{
+                "movable": true,
+                "deletable": false,
+                "recommend": false,
+                "site": {
+                    "stid": 17,
+                    "title": "HTCManía",
+                    "url": "http://www.htcmania.com/",
+                    "thumb": "local",
+                    "hash": "a0c5c676",
+                    "extra": "17_default__2280"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 7,
+                    "title": "MI",
+                    "url": "http://www.mi.com/en",
+                    "thumb": "local",
+                    "hash": "a0c5c676",
+                    "extra": "7_default__2280"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 8,
+                    "title": "Miui Forum",
+                    "url": "http://en.miui.com/forum.php",
+                    "thumb": "local",
+                    "hash": "a0c5c676",
+                    "extra": "8_default__2280"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 9,
+                    "title": "BBC",
+                    "url": "http://www.bbc.com",
+                    "thumb": "local",
+                    "hash": "a0c5c676",
+                    "extra": "9_default__2280"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 10,
+                    "title": "Yahoo News",
+                    "url": "http://news.yahoo.com",
+                    "thumb": "local",
+                    "hash": "a0c5c676",
+                    "extra": "10_default__2280"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 11,
+                    "title": "WSJ",
+                    "url": "http://www.wsj.com",
+                    "thumb": "local",
+                    "hash": "a0c5c676",
+                    "extra": "11_default__2280"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 12,
+                    "title": "CNN",
+                    "url": "http://www.cnn.com",
+                    "thumb": "local",
+                    "hash": "a0c5c676",
+                    "extra": "12_default__2280"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 13,
+                    "title": "XDA",
+                    "url": "http://www.xda-developers.com/",
+                    "thumb": "local",
+                    "hash": "a0c5c676",
+                    "extra": "13_default__2280"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 14,
+                    "title": "Linkedin",
+                    "url": "https://www.linkedin.com",
+                    "thumb": "local",
+                    "hash": "a0c5c676",
+                    "extra": "14_default__2280"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 15,
+                    "title": "ApkMirror",
+                    "url": "https://www.apkmirror.com/",
+                    "thumb": "local",
+                    "hash": "a0c5c676",
+                    "extra": "15_default__2280"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 16,
+                    "title": "Wikipedia",
+                    "url": "http://www.wikipedia.org/",
+                    "thumb": "local",
+                    "hash": "a0c5c676",
+                    "extra": "16_default__2280"
+                }
+            }
+        ]
+    }
+}

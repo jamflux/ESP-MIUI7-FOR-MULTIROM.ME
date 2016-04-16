@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- MeTHIC Config tags-->
+    <tag:dontadd>true</tag:dontadd>
+    <!-- Resources -->
+    <string name="config_fusedLocationProviderPackageName">com.qualcomm.location</string>
+    <string name="config_geocoderProviderPackageName">com.qualcomm.location</string>
+    <string name="config_geofenceProviderPackageName">com.qualcomm.location</string>
+    <string name="config_networkLocationProviderPackageName">com.qualcomm.location</string>
+</resources>
