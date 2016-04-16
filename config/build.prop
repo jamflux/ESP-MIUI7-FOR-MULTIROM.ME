@@ -1,0 +1,28 @@
+ro.translation.build=BARS
+ro.build.date=@DATE@
+ro.build.date.utc=@DATE_UTC@
+persist.sys.timezone=@TIMEZONE@
+ro.build.user=@BUILDUSER@
+ro.build.host=@BUILDHOST@
+ro.build.type=user
+ro.build.tags=release-keys
+
+# Some Configs for DRM
+drm.service.enabled=true
+ro.adb.secure=1
+
+# Hardware Power Saving
+ro.config.hw_power_saving=1
+
+# Sleep Mode (set to 3 if push notifications doesnt work)
+pm.sleep_mode=3
+ro.ril.disable.power.collapse=0
+
+# Default TimeZone
+persist.sys.timezone=Europe/Moscow
+
+# GoogleDNS
+net.ppp0.dns1=8.8.4.4
+net.ppp0.dns2=8.8.8.8
+net.dns1=8.8.4.4
+net.dns2=8.8.8.8
