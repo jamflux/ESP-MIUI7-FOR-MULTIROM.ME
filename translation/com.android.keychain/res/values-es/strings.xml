@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Llavero</string>
+    <string name="title_no_certs">Ningún certificado encontrado</string>
+    <string name="title_select_cert">Escoger certificado</string>
+    <string name="requesting_application">La app %s solicitó un certificado. Escoger un certificado permitirá que la app use esta identidad con los servidores de ahora en adelante.</string>
+    <string name="requesting_server">La app identificó el servidor de solicitud como %s, puedes permitir el accesoo al certificado en caso de que confée en la app.</string>
+    <string name="install_new_cert_message">Puedes instalar certificados a partir de un archivo PKCS#12 con una extensión %1$s ó %2$s guardándolo externamente.</string>
+    <string name="install_new_cert_button_label">Instalar</string>
+    <string name="allow_button">Permitir</string>
+    <string name="deny_button">Rechazar</string>
+</resources>
